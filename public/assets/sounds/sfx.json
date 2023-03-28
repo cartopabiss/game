@@ -1,0 +1,31 @@
+{
+    "resources": ["../../assets/sounds/sfx.ogg", "../../assets/sounds/sfx.m4a"],
+    "spritemap": {
+
+        "coin": {
+            "start": 0,
+            "end": 0.568,
+            "loop": false
+        },
+        "key": {
+            "start": 0.584,
+            "end": 1.129,
+            "loop": false
+        },
+        "heart": {
+            "start": 1.208,
+            "end": 2.533,
+            "loop": false
+        },
+        "completed": {
+            "start": 2.676,
+            "end": 3.893,
+            "loop": false
+        },
+        "explosion": {
+            "start": 4,
+            "end": 5.179,
+            "loop": false
+        }
+    }
+}
